@@ -15,7 +15,7 @@ Projeto Landing Page do filme do spader-man no aranha verso 2
 - AOS Animate
 
 ## Deploy
-[![Deploy to Vercel](https://vercel.com/button)](https://semafaro.vercel.app/)
+[![Deploy to Vercel](https://vercel.com/button)](https://spider-man-across-the-spider-verse.vercel.app/)
 
 <img align="center" alt="js" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" />
 
