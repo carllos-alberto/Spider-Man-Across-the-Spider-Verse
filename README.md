@@ -4,7 +4,7 @@
 ![Spader-man](https://github.com/carllos-alberto/Spider-Man-Across-the-Spider-Verse/assets/81397233/ccb2da80-e150-4aa1-bb7e-bba104ae2f10)
 
 ## Sobre o projeto
-Projeto Landing Page do filme do spader-man no aranha verso 2
+Projeto Landing Page do filme do Spider-Man no aranha verso 2
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/carllos-alberto/Spider-Man-Across-the-Spider-Verse/blob/master/LICENSE) 
 
